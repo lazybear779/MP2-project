@@ -1,0 +1,11 @@
+Public class Testcase {
+    private String A;
+    private String B;
+    public boolean ifRepeat(String a, String b){
+        boolean test;
+        test = (A.contains(CharSequence B));
+        if(test) return ture
+        else return false
+
+    }
+}
